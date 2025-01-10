@@ -2,13 +2,13 @@
     "name": "Degen Token",
     "symbol": "DEGEN",
     "description": "A token for degens.",
-    "image": "https://example.com/token-image.png",
+    "image": "https://raw.githubusercontent.com/theodorg1/test/refs/heads/main/token.png",
     "seller_fee_basis_points": 500, 
     "external_url": "https://example.com",
     "properties": {
       "files": [
         {
-          "uri": "https://example.com/token-image.png",
+          "uri": "https://raw.githubusercontent.com/theodorg1/test/refs/heads/main/token.png",
           "type": "image/png"
         }
       ],
